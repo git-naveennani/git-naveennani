@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen R
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding..
-- 💞️ I’m looking to collaborate on interships..
+- 💞️ I’m looking to collaborate on interships.
 - 📫 How to reach me cotact me on yakoshade128@gmail.com
 
 <!---
